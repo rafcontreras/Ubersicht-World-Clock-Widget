@@ -21,7 +21,7 @@
   },
   "main": "suncalc.js",
   "devDependencies": {
-    "eslint": "^3.12.2",
+    "eslint": "^7.5.0",
     "eslint-config-mourner": "^2.0.1",
     "tap": "^8.0.1"
   },
