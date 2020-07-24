@@ -2,7 +2,7 @@
 
 A Übersicht widget to display the time at different time zones. Can show multiple time zones from 1 to infinite (might not fit in your display). Dark mode support, sunrise/sunset aware.
 
-![Clocks](https://github.com/rafcontreras/Ubersicht-World-Clock-Widget/raw/master/clock_color_change.gif)
+<img src="https://github.com/rafcontreras/Ubersicht-World-Clock-Widget/raw/master/clock_color_change.gif" width="304" height="293" title="Clocks animation">
 
 ## Performance
 
