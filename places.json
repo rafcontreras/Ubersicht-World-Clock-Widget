@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Auckland",
+    "timezone": "Pacific/Auckland",
+    "lat": -36.848461,
+    "lng": 174.763336
+  },
+  {
+    "name": "México City",
+    "timezone": "America/Mexico_City",
+    "lat": 19.451054,
+    "lng": -99.125519
+  },
+  {
+    "name": "Adelaide",
+    "timezone": "Australia/Adelaide",
+    "lat": -34.92123,
+    "lng": 138.599503
+  },
+  {
+    "name": "Vienna",
+    "timezone": "Europe/Vienna",
+    "lat": 48.210033,
+    "lng": 16.363449
+  }
+]
