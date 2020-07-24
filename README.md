@@ -35,10 +35,10 @@ Edit the **_places.json_** file in the widget directory, you will need latitude 
 
 Full screenshot in dark mode
 
-![Full screenshot in dark mode](https://raw.githubusercontent.com/rafcontreras/ubersitch-world-clock.widget/master/screenshot_full.png)
+![Full screenshot in dark mode](https://github.com/rafcontreras/Ubersicht-World-Clock-Widget/raw/master/full_screenshot.png)
 
 Resized
-![Resized](https://raw.githubusercontent.com/rafcontreras/ubersitch-world-clock.widget/master/big_size.png)
+![Resized](https://github.com/rafcontreras/Ubersicht-World-Clock-Widget/raw/master/big_size.png)
 
 Multiple Clocks
-![Multiple Clocks](https://raw.githubusercontent.com/rafcontreras/ubersitch-world-clock.widget/master/multiple_clocks.png)
+![Multiple Clocks](https://github.com/rafcontreras/Ubersicht-World-Clock-Widget/raw/master/multiple_clocks.png)
