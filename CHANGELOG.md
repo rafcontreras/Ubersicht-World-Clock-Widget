@@ -4,6 +4,7 @@
 - Moved functions to `command` from `render` for better performance
 - Added AM/PM display
 - Added day change
+- Added single day mode
 
 # 1.0.0 - 2020-07-24
 
