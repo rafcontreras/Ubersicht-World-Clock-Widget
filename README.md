@@ -28,10 +28,10 @@ Edit the **_places.json_** file in the widget directory, you will need latitude 
 - Smooth pointer animation.
 
 ## Todo
-- Ability to resize as a percentage of the screen, while it can be done; if you are working with two screens in different sizes, it will use the percentage of only one screen.
-- Show am/pm indicator for places where there's no sunset.
-- Maybe a smarter grid.
-- Make prettier hour, minute, second pointers.
+- [ ] Ability to resize as a percentage of the screen, while it can be done; if you are working with two screens in different sizes, it will use the percentage of only one screen.
+- [x] Show am/pm indicator for places where there's no sunset.
+- [ ] Maybe a smarter grid.
+- [x] Make prettier hour, minute, second pointers.
 
 ## Screenshots
 
